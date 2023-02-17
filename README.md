@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 
 [patika: imkyssa](https://app.patika.dev/imkyssa)
+
+
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![github](imgs/github.png)
 
